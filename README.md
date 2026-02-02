@@ -1,11 +1,15 @@
 # Anunnaki Quantum SD Generator 🪐⚛️👽
 
-Python script using Stable Diffusion to create futuristic quantum visions of the Anunnaki – ancient Sumerian gods reimagined as cybernetic quantum overlords, with neon particles, wormholes, holographic cuneiform, and sci-fi ancient-alien tech.
+Advanced Stable Diffusion XL (SDXL) tool for generating futuristic quantum Anunnaki visions: ancient Sumerian gods as cyber-quantum entities, with neon particles, holographic cuneiform, entanglement fields, and sci-fi dystopian flair. Features ControlNet, img2img, refiners, batch gen, CLI controls.
 
-### Features
-- Randomly combines Anunnaki mythology + quantum/futuristic elements
-- Easy to tweak prompts/themes
-- Outputs high-detail PNGs
+### Advanced Features
+- SDXL base + refiner for ultra-sharp 1024x1024+ outputs
+- ControlNet (canny edges) for guided structure
+- Img2img refinement from init images
+- Dynamic weighted prompts + expansive theme banks
+- Batch generation with seed variations
+- CLI args for no-code tweaks
+- VRAM opts + optional upscale
 
-### Setup & Run (Local)
-1. Install dependencies:
+### Setup (2026 Standards)
+1. Install:
